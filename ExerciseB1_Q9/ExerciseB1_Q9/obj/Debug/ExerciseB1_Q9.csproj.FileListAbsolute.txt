@@ -1,0 +1,7 @@
+C:\Users\ealmasoud\source\repos\ExerciseB1_Q9\ExerciseB1_Q9\obj\Debug\ExerciseB1_Q9.csprojAssemblyReference.cache
+C:\Users\ealmasoud\source\repos\ExerciseB1_Q9\ExerciseB1_Q9\obj\Debug\ExerciseB1_Q9.csproj.CoreCompileInputs.cache
+C:\Users\ealmasoud\source\repos\ExerciseB1_Q9\ExerciseB1_Q9\bin\Debug\ExerciseB1_Q9.exe.config
+C:\Users\ealmasoud\source\repos\ExerciseB1_Q9\ExerciseB1_Q9\bin\Debug\ExerciseB1_Q9.exe
+C:\Users\ealmasoud\source\repos\ExerciseB1_Q9\ExerciseB1_Q9\bin\Debug\ExerciseB1_Q9.pdb
+C:\Users\ealmasoud\source\repos\ExerciseB1_Q9\ExerciseB1_Q9\obj\Debug\ExerciseB1_Q9.exe
+C:\Users\ealmasoud\source\repos\ExerciseB1_Q9\ExerciseB1_Q9\obj\Debug\ExerciseB1_Q9.pdb
